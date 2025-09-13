@@ -1,0 +1,15 @@
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/bin/Debug/net9.0/Ovning-OOP-Github
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/bin/Debug/net9.0/Ovning-OOP-Github.deps.json
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/bin/Debug/net9.0/Ovning-OOP-Github.runtimeconfig.json
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/bin/Debug/net9.0/Ovning-OOP-Github.dll
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/bin/Debug/net9.0/Ovning-OOP-Github.pdb
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/Ovning-OOP-Github.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/Ovning-OOP-Github.AssemblyInfoInputs.cache
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/Ovning-OOP-Github.AssemblyInfo.cs
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/Ovning-OOP-Github.csproj.CoreCompileInputs.cache
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/Ovning-OOP-Github.sourcelink.json
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/Ovning-OOP-Github.dll
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/refint/Ovning-OOP-Github.dll
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/Ovning-OOP-Github.pdb
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/Ovning-OOP-Github.genruntimeconfig.cache
+/Users/emeliehalgh/projects/emeljana/Objektexercises/Ovning-OOP-Github/obj/Debug/net9.0/ref/Ovning-OOP-Github.dll
